@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackOverflow.NHibernate", "NHibernate\StackOverflow.NHibernate.csproj", "{6D8304EC-04B3-470D-89C5-0155A9F57E58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E08B5D1D-58B7-46A2-85B5-3F5F80331858}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+		Directory.Packages.props = Directory.Packages.props
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackOverflow.CSharp", "StackOverflow.CSharp\StackOverflow.CSharp.csproj", "{ED370790-13C1-462D-A5BD-7BCC5ACDBB83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallGenericMethodDynamically", "How to use Reflection to call a generic method\CallGenericMethodDynamically.csproj", "{0E372F4D-689E-4129-BE54-4A34F2B72F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D8304EC-04B3-470D-89C5-0155A9F57E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8304EC-04B3-470D-89C5-0155A9F57E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8304EC-04B3-470D-89C5-0155A9F57E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8304EC-04B3-470D-89C5-0155A9F57E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED370790-13C1-462D-A5BD-7BCC5ACDBB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED370790-13C1-462D-A5BD-7BCC5ACDBB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED370790-13C1-462D-A5BD-7BCC5ACDBB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED370790-13C1-462D-A5BD-7BCC5ACDBB83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E372F4D-689E-4129-BE54-4A34F2B72F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E372F4D-689E-4129-BE54-4A34F2B72F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E372F4D-689E-4129-BE54-4A34F2B72F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E372F4D-689E-4129-BE54-4A34F2B72F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0F56DA4-2AED-4447-95B4-BA1B0C3ACE56}
+	EndGlobalSection
+EndGlobal

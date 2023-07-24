@@ -1,0 +1,21 @@
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <NoLogo>true</NoLogo>
+        <Authors>ServiceTitan IUM Team</Authors>
+        <Company>ServiceTitan</Company>
+        <Description>Titan ID</Description>
+        <SuppressNETCoreSdkPreviewMessage>true</SuppressNETCoreSdkPreviewMessage>
+        <LangVersion>11.0</LangVersion>
+        <TargetFramework>net7.0</TargetFramework>
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+        <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+
+        <PackageProjectUrl>https://github.com/servicetitan/IUM-TitanId</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/servicetitan/IUM-TitanId</RepositoryUrl>
+        <IsPackable>false</IsPackable>
+        <DebugType>portable</DebugType>
+        <DebugSymbols>true</DebugSymbols>
+    </PropertyGroup>
+</Project>
