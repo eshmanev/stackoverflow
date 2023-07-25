@@ -3,17 +3,16 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <NoLogo>true</NoLogo>
-        <Authors>ServiceTitan IUM Team</Authors>
-        <Company>ServiceTitan</Company>
-        <Description>Titan ID</Description>
+        <Authors>Evgenii Shmanev</Authors>
+        <Company>Evgenii Shmanev</Company>
+        <Description>Sample code for StackOverflow</Description>
         <SuppressNETCoreSdkPreviewMessage>true</SuppressNETCoreSdkPreviewMessage>
         <LangVersion>11.0</LangVersion>
         <TargetFramework>net7.0</TargetFramework>
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
         <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
-
-        <PackageProjectUrl>https://github.com/servicetitan/IUM-TitanId</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/servicetitan/IUM-TitanId</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/eshmanev/stackoverflow</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/eshmanev/stackoverflow</RepositoryUrl>
         <IsPackable>false</IsPackable>
         <DebugType>portable</DebugType>
         <DebugSymbols>true</DebugSymbols>
