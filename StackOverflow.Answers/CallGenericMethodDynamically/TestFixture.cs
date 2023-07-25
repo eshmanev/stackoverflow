@@ -1,10 +1,10 @@
 ﻿using NUnit.Framework;
 using System.Diagnostics;
 
-namespace CallGenericMethodDynamically;
+namespace StackOverflow.Answers.CallGenericMethodDynamically;
 
 [TestFixture]
-public class SampleTests
+public class TestFixture
 {
     private const int Iterations = 10000000;
 
