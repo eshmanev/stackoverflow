@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Reflection.Emit;
 
-namespace StackOverflow.Answers.CallGenericMethodDynamically;
+namespace StackOverflow.Answers.CSharp.CallGenericMethodDynamically;
 
 public static class CallViaEmit
 {

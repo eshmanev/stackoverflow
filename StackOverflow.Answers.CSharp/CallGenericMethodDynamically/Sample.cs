@@ -1,4 +1,4 @@
-﻿namespace StackOverflow.Answers.CallGenericMethodDynamically;
+﻿namespace StackOverflow.Answers.CSharp.CallGenericMethodDynamically;
 
 /// <summary>
 /// What's the best way to call a generic method when the type parameter isn't known at compile time, but instead is obtained dynamically at runtime?

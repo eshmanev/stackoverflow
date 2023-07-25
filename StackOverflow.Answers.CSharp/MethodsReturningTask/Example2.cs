@@ -1,4 +1,4 @@
-﻿namespace StackOverflow.Answers.MethodsReturningTask;
+﻿namespace StackOverflow.Answers.CSharp.MethodsReturningTask;
 
 
 internal class Example2

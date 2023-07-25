@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 
-namespace StackOverflow.Answers.CallGenericMethodDynamically;
+namespace StackOverflow.Answers.CSharp.CallGenericMethodDynamically;
 
 public class Cache<T> where T : class
 {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
 
-namespace WebApplication2.Controllers
+namespace StackOverflow.Answers.AspNet.WebApi.ChangeFieldValueBeforeReachingController
 {
     public class ChangeFieldValueModelBinderProvider : IModelBinderProvider
     {

@@ -1,4 +1,3 @@
-using WebApplication2.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers(options =>
 {
     // see ChangeFieldValueBeforeReachingController
-    options.ModelBinderProviders.Insert(0, new ChangeFieldValueModelBinderProvider());
+    options.ModelBinderProviders.Insert(0, new StackOverflow.Answers.AspNet.WebApi.ChangeFieldValueBeforeReachingController.ChangeFieldValueModelBinderProvider());
 });
 
 var app = builder.Build();

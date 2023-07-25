@@ -1,7 +1,7 @@
 ﻿using System.Linq.Expressions;
 using System.Reflection;
 
-namespace StackOverflow.Answers.CallGenericMethodDynamically;
+namespace StackOverflow.Answers.CSharp.CallGenericMethodDynamically;
 
 public static class CallViaExpression
 {

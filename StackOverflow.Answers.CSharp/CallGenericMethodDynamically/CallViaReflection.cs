@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace StackOverflow.Answers.CallGenericMethodDynamically;
+namespace StackOverflow.Answers.CSharp.CallGenericMethodDynamically;
 
 public static class CallViaReflection
 {

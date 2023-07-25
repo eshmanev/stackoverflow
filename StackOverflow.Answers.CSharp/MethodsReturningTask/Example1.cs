@@ -1,4 +1,4 @@
-﻿namespace StackOverflow.Answers.MethodsReturningTask;
+﻿namespace StackOverflow.Answers.CSharp.MethodsReturningTask;
 
 /// <summary>
 /// <see href="https://stackoverflow.com/questions/75982824/correct-way-of-using-functaskt/75983068#75983068"/>

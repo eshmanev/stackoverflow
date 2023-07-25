@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System.Diagnostics;
 
-namespace StackOverflow.Answers.CallGenericMethodDynamically;
+namespace StackOverflow.Answers.CSharp.CallGenericMethodDynamically;
 
 [TestFixture]
 public class TestFixture

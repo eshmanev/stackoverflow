@@ -1,4 +1,4 @@
-﻿namespace WebApplication2.Controllers
+﻿namespace StackOverflow.Answers.AspNet.WebApi.ChangeFieldValueBeforeReachingController
 {
     public class SomeRequestModel
     {

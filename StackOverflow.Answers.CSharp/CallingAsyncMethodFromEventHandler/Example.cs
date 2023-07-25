@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StackOverflow.CSharp.AsyncAwait
+namespace StackOverflow.Answers.CSharp.CallingAsyncMethodFromEventHandler
 {
     /// <summary>
     /// <see href="https://stackoverflow.com/questions/75982605/how-to-call-async-method-from-an-event#75982605"/>

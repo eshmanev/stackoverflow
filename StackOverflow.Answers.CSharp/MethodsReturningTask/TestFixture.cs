@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace StackOverflow.Answers.MethodsReturningTask
+namespace StackOverflow.Answers.CSharp.MethodsReturningTask
 {
     [TestFixture]
     public class TestFixture
